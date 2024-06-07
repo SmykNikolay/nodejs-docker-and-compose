@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# NestJS
+/dist/
+.env
+
+# React
+/build/
+/public/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+/frontend/build
+ignore-some.md
+/backend/dist
